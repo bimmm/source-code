@@ -1,0 +1,25 @@
+### Fichiers de compilation
+target/
+*.class
+*.log
+
+## Fichiers spéciaux
+version.txt
+
+## Fichiers IDE
+*.ipr
+*.iws
+*.iml
+*.ids
+.idea/
+.classpath
+.project
+.settings/
+
+# fichiers générés pendant les tests
+*.pdf
+
+# fichiers d'outilage node.js, karma.js...
+bower_components/
+node_modules/
+node/
